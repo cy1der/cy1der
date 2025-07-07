@@ -1,1 +1,1 @@
-# [I have moved to Gitea](https://git.altaiar.dev/ahmed)
+# [I use Gitea](https://git.altaiar.dev/ahmed)
